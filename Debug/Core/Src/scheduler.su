@@ -1,0 +1,10 @@
+scheduler.c:13:6:SCH_INIT	4	static
+scheduler.c:17:9:createTask	32	static
+scheduler.c:26:10:SCH_Add_Task	32	static
+scheduler.c:44:6:SCH_Update_Task	4	static
+scheduler.c:58:6:SCH_Dispatch_Task	8	static
+scheduler.c:70:6:BlinkLed0	8	static
+scheduler.c:73:6:BlinkLed1	8	static
+scheduler.c:76:6:BlinkLed2	8	static
+scheduler.c:79:6:BlinkLed3	8	static
+scheduler.c:82:6:BlinkLed4	8	static
